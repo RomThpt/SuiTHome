@@ -54,9 +54,9 @@ Sui Blockchain: Scalable, high-performance blockchain.
 ZKLogin: Privacy-first login.
 Sui Kiosk: Decentralized marketplace for secure trading.
 ### 👥 Team
-Antoine Espieux
-Amaury Mongreville
-Johann Cali
+Antoine Espieux |
+Amaury Mongreville | 
+Johann Cali | 
 Romain Thépaut
 ### 🚀 Join Us
 Follow our journey and contribute to revolutionizing real-world asset trading on the blockchain!
