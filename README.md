@@ -40,7 +40,6 @@ sui move publish --gas-budget 1000000000
 Create Your First RWA NFT: Using the provided functions in the nft module:
 
 ```move
-Copy code
 module nft::nft;
 nft::createRwaNft(name: vector<u8>, supporting_uri: vector<u8>);
 ```
