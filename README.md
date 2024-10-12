@@ -32,7 +32,6 @@ Deploy the DApp: Using Sui CLI, deploy the contracts:
 ```
 
 ```bash
-Copy code
 sui move build
 sui move publish --gas-budget 1000000000
 ```
