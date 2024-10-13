@@ -32,7 +32,6 @@ Deploy the DApp: Using Sui CLI, deploy the contracts:
 ```
 
 ```bash
-Copy code
 sui move build
 sui move publish --gas-budget 1000000000
 ```
@@ -40,7 +39,6 @@ sui move publish --gas-budget 1000000000
 Create Your First RWA NFT: Using the provided functions in the nft module:
 
 ```move
-Copy code
 module nft::nft;
 nft::createRwaNft(name: vector<u8>, supporting_uri: vector<u8>);
 ```
@@ -56,9 +54,9 @@ Sui Blockchain: Scalable, high-performance blockchain.
 ZKLogin: Privacy-first login.
 Sui Kiosk: Decentralized marketplace for secure trading.
 ### 👥 Team
-Antoine Espieux
-Amaury Mongreville
-Johann Cali
+Antoine Espieux |
+Amaury Mongreville | 
+Johann Cali | 
 Romain Thépaut
 ### 🚀 Join Us
 Follow our journey and contribute to revolutionizing real-world asset trading on the blockchain!
